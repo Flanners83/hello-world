@@ -1,2 +1,2 @@
 # hello-world
-Justanother
+Just another hello world example
